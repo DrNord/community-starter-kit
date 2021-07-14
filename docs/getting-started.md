@@ -35,6 +35,4 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-
-
 Thanks for reading.
